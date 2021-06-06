@@ -1,0 +1,54 @@
+branchOutcome1.txt p = 3  ALL Zeros 
+accuracy 96.2919
+
+branchOutcome2.txt p = 3  ALL Zeros 
+accuracy 99.9767
+
+branchOutcome3.txt p = 3  ALL Zeros 
+accuracy 99.9175
+
+branchOutcome1.txt p = 4  ALL Zeros 
+accuracy 96.2922
+
+branchOutcome2.txt p = 4  ALL Zeros 
+accuracy 99.9767
+
+branchOutcome3.txt p = 4  ALL Zeros 
+accuracy 99.9325
+
+branchOutcome1.txt p = 5  ALL Zeros 
+accuracy 96.2922
+
+branchOutcome2.txt p = 5  ALL Zeros 
+accuracy 99.9767
+
+branchOutcome3.txt p = 5  ALL Zeros 
+accuracy 99.9325
+
+branchOutcome1.txt p = 3  ALL Ones 
+accuracy 96.2956
+
+branchOutcome2.txt p = 3  ALL Ones 
+accuracy 99.99
+
+branchOutcome3.txt p = 3  ALL Ones 
+accuracy 99.91
+
+branchOutcome1.txt p = 4  ALL Ones 
+accuracy 96.2956
+
+branchOutcome2.txt p = 4  ALL Ones 
+accuracy 99.99
+
+branchOutcome3.txt p = 4  ALL Ones 
+accuracy 99.925
+
+branchOutcome1.txt p = 5  ALL Ones 
+accuracy 96.2956
+
+branchOutcome2.txt p = 5  ALL Ones 
+accuracy 99.9867
+
+branchOutcome3.txt p = 5  ALL Ones 
+accuracy 99.925
+
